@@ -4,3 +4,6 @@ FEATURES:
 1- Real-time weather updates
 2- City search functionality
 3- User-friendly interface
+
+Tools: HTML, CSS, JavaScript
+
